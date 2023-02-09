@@ -1,0 +1,8 @@
+Filename                         Size                       Last Modified
+========	                =========		    ===========
+/home/joe/Desktop/assign1/thisDir/file2  0  2023-02-08 18:13:33.114750563 -0600 
+/home/joe/Desktop/assign1/thisDir/Dir2/file4  0  2023-02-08 16:39:06.387148118 -0600 
+/home/joe/Desktop/assign1/thisDir/Dir2/file5  0  2023-02-08 16:39:06.387148118 -0600 
+/home/joe/Desktop/assign1/thisDir/tempFile  253  2023-02-08 19:35:57.139536928 -0600 
+/home/joe/Desktop/assign1/thisDir/file3  0  2023-02-08 16:38:50.358959211 -0600 
+/home/joe/Desktop/assign1/thisDir/file1  0  2023-02-08 16:38:50.358959211 -0600 
